@@ -1,2 +1,2 @@
 # Itemsfromgregor
-My first minecraft mod
+My first minecraft mod (Snapshot)
